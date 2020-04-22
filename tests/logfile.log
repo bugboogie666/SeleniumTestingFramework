@@ -1,0 +1,601 @@
+2020-04-17 12:31:28,255 :INFO : test_e2e :Getting all products
+2020-04-17 12:31:28,560 :INFO : test_e2e :Entering country name.
+2020-04-17 12:31:34,057 :INFO : test_e2e :Text received from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-17 12:35:20,424 :INFO : test_e2e :Getting all products
+2020-04-17 12:35:20,746 :INFO : test_e2e :Entering country name.
+2020-04-17 12:35:26,264 :INFO : test_e2e :Text received from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-17 13:08:03,667 :INFO : test_e2e :Getting all products
+2020-04-17 13:08:03,991 :INFO : test_e2e :Entering country name.
+2020-04-17 13:08:09,422 :INFO : test_e2e :Text received from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-17 13:46:43,824 :INFO : test_e2e :Getting all products
+2020-04-17 13:46:43,858 :INFO : test_e2e :<re.Match object; span=(0, 9), match='iphone X\n'>
+2020-04-17 13:47:50,487 :INFO : test_e2e :Getting all products
+2020-04-17 13:47:50,523 :INFO : test_e2e :<re.Match object; span=(0, 9), match='iphone X\n'>
+2020-04-17 13:47:50,546 :INFO : test_e2e :<re.Match object; span=(0, 15), match='Samsung Note 8\n'>
+2020-04-17 13:47:50,567 :INFO : test_e2e :<re.Match object; span=(0, 11), match='Nokia Edge\n'>
+2020-04-17 13:47:50,587 :INFO : test_e2e :<re.Match object; span=(0, 11), match='Blackberry\n'>
+2020-04-17 13:47:50,804 :INFO : test_e2e :Entering country name.
+2020-04-17 13:47:56,256 :INFO : test_e2e :Text received from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-17 13:50:41,205 :INFO : test_e2e :Getting all products
+2020-04-17 13:50:41,247 :INFO : test_e2e :<re.Match object; span=(0, 9), match='iphone X\n'>
+2020-04-17 13:50:41,264 :INFO : test_e2e :<re.Match object; span=(0, 15), match='Samsung Note 8\n'>
+2020-04-17 13:50:41,277 :INFO : test_e2e :<re.Match object; span=(0, 11), match='Nokia Edge\n'>
+2020-04-17 13:50:41,286 :INFO : test_e2e :<re.Match object; span=(0, 11), match='Blackberry\n'>
+2020-04-17 13:50:41,498 :INFO : test_e2e :Entering country name.
+2020-04-17 13:50:47,099 :INFO : test_e2e :Text received from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-17 13:54:49,748 :INFO : test_e2e :Getting all products
+2020-04-17 13:54:49,809 :INFO : test_e2e :iphone X
+
+2020-04-17 13:54:49,826 :INFO : test_e2e :Samsung Note 8
+
+2020-04-17 13:54:49,844 :INFO : test_e2e :Nokia Edge
+
+2020-04-17 13:54:49,860 :INFO : test_e2e :Blackberry
+
+2020-04-17 13:54:50,061 :INFO : test_e2e :Entering country name.
+2020-04-17 13:54:55,532 :INFO : test_e2e :Text received from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-17 14:05:01,139 :INFO : test_e2e :Getting all products
+2020-04-17 14:05:01,188 :INFO : test_e2e :iphone X
+$
+2020-04-17 14:05:01,205 :INFO : test_e2e :Samsung Note 
+2020-04-17 14:05:01,223 :INFO : test_e2e :Nokia Edge
+$
+2020-04-17 14:05:01,241 :INFO : test_e2e :Blackberry
+$
+2020-04-17 14:05:01,457 :INFO : test_e2e :Entering country name.
+2020-04-17 14:05:06,913 :INFO : test_e2e :Text received from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-17 14:10:33,764 :INFO : test_e2e :Getting all products
+2020-04-17 14:10:33,818 :INFO : test_e2e :iphone X
+$
+2020-04-17 14:10:33,836 :INFO : test_e2e :Samsung Note 
+2020-04-17 14:10:33,853 :INFO : test_e2e :Nokia Edge
+$
+2020-04-17 14:10:33,868 :INFO : test_e2e :Blackberry
+$
+2020-04-17 14:10:34,077 :INFO : test_e2e :Entering country name.
+2020-04-17 14:10:39,590 :INFO : test_e2e :Text received from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-17 14:11:33,532 :INFO : test_e2e :Getting all products
+2020-04-17 14:11:33,586 :INFO : test_e2e :iphone X
+$
+2020-04-17 14:11:33,603 :INFO : test_e2e :Samsung Note 
+2020-04-17 14:11:33,620 :INFO : test_e2e :Nokia Edge
+$
+2020-04-17 14:11:33,639 :INFO : test_e2e :Blackberry
+$
+2020-04-17 14:11:33,856 :INFO : test_e2e :Entering country name.
+2020-04-17 14:11:39,285 :INFO : test_e2e :Text received from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-17 14:22:21,183 :INFO : test_e2e :Getting all products
+2020-04-17 14:22:21,227 :INFO : test_e2e :iphone X
+$
+2020-04-17 14:22:21,243 :INFO : test_e2e :Samsung Note 
+2020-04-17 14:22:21,263 :INFO : test_e2e :Nokia Edge
+$
+2020-04-17 14:22:21,280 :INFO : test_e2e :Blackberry
+$
+2020-04-17 14:22:21,488 :INFO : test_e2e :Entering country name.
+2020-04-17 14:22:27,078 :INFO : test_e2e :Text received from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-17 14:24:57,187 :INFO : test_e2e :Getting all products
+2020-04-17 14:24:57,232 :INFO : test_e2e :iphone X
+$
+2020-04-17 14:24:57,249 :INFO : test_e2e :Samsung Note 
+2020-04-17 14:24:57,267 :INFO : test_e2e :Nokia Edge
+$
+2020-04-17 14:24:57,285 :INFO : test_e2e :Blackberry
+$
+2020-04-17 14:24:57,502 :INFO : test_e2e :Entering country name.
+2020-04-17 14:25:02,970 :INFO : test_e2e :Text received from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-17 14:54:34,821 :INFO : test_form_submission :first name: Jakub
+2020-04-17 14:54:34,937 :INFO : test_form_submission :first name: j@j.cz
+2020-04-17 14:54:35,567 :INFO : test_form_submission :first name: Tereza
+2020-04-17 14:54:35,567 :INFO : test_form_submission :first name: Tereza
+2020-04-17 14:54:35,660 :INFO : test_form_submission :first name: t@t.cz
+2020-04-17 14:54:35,660 :INFO : test_form_submission :first name: t@t.cz
+2020-04-17 14:55:28,929 :INFO : test_form_submission :first name: Jakub
+2020-04-17 14:55:29,035 :INFO : test_form_submission :first name: j@j.cz
+2020-04-17 14:55:29,594 :INFO : test_form_submission :first name: Tereza
+2020-04-17 14:55:29,594 :INFO : test_form_submission :first name: Tereza
+2020-04-17 14:55:29,668 :INFO : test_form_submission :first name: t@t.cz
+2020-04-17 14:55:29,668 :INFO : test_form_submission :first name: t@t.cz
+2020-04-17 15:17:19,734 :INFO : test_e2e :Getting all products
+2020-04-17 15:17:19,787 :INFO : test_e2e :iphone X
+$
+2020-04-17 15:17:19,803 :INFO : test_e2e :Samsung Note 
+2020-04-17 15:17:19,827 :INFO : test_e2e :Nokia Edge
+$
+2020-04-17 15:17:19,846 :INFO : test_e2e :Blackberry
+$
+2020-04-17 15:17:20,059 :INFO : test_e2e :Entering country name.
+2020-04-17 15:17:25,575 :INFO : test_e2e :Text received from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-17 15:17:33,473 :INFO : test_form_submission :first name: Jakub
+2020-04-17 15:17:33,582 :INFO : test_form_submission :first name: j@j.cz
+2020-04-17 15:17:34,118 :INFO : test_form_submission :first name: Tereza
+2020-04-17 15:17:34,118 :INFO : test_form_submission :first name: Tereza
+2020-04-17 15:17:34,197 :INFO : test_form_submission :first name: t@t.cz
+2020-04-17 15:17:34,197 :INFO : test_form_submission :first name: t@t.cz
+2020-04-18 06:23:53,791 :INFO : test_e2e :Getting all products
+2020-04-18 06:23:53,827 :INFO : test_e2e :iphone X
+$
+2020-04-18 06:23:53,844 :INFO : test_e2e :Samsung Note 
+2020-04-18 06:23:53,860 :INFO : test_e2e :Nokia Edge
+$
+2020-04-18 06:23:53,878 :INFO : test_e2e :Blackberry
+$
+2020-04-18 06:23:54,099 :INFO : test_e2e :Entering country name.
+2020-04-18 06:23:59,570 :INFO : test_e2e :Text received from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-18 06:24:08,062 :INFO : test_form_submission :first name: Jakub
+2020-04-18 06:24:08,174 :INFO : test_form_submission :first name: j@j.cz
+2020-04-18 06:24:08,759 :INFO : test_form_submission :first name: Tereza
+2020-04-18 06:24:08,759 :INFO : test_form_submission :first name: Tereza
+2020-04-18 06:24:08,849 :INFO : test_form_submission :first name: t@t.cz
+2020-04-18 06:24:08,849 :INFO : test_form_submission :first name: t@t.cz
+2020-04-18 06:38:40,840 :INFO : test_e2e :Getting all products
+2020-04-18 06:38:42,250 :INFO : test_e2e :iphone X
+$
+2020-04-18 06:38:42,996 :INFO : test_e2e :Samsung Note 
+2020-04-18 06:38:43,738 :INFO : test_e2e :Nokia Edge
+$
+2020-04-18 06:38:44,448 :INFO : test_e2e :Blackberry
+$
+2020-04-18 06:39:15,123 :INFO : test_form_submission :first name: Jakub
+2020-04-18 06:39:21,567 :INFO : test_form_submission :first name: j@j.cz
+2020-04-18 06:39:50,991 :INFO : test_form_submission :first name: Tereza
+2020-04-18 06:39:50,991 :INFO : test_form_submission :first name: Tereza
+2020-04-18 06:39:54,633 :INFO : test_form_submission :first name: t@t.cz
+2020-04-18 06:39:54,633 :INFO : test_form_submission :first name: t@t.cz
+2020-04-18 06:48:19,425 :INFO : test_e2e :Getting all products
+2020-04-18 06:48:19,460 :INFO : test_e2e :iphone X
+$
+2020-04-18 06:48:19,477 :INFO : test_e2e :Samsung Note 
+2020-04-18 06:48:19,494 :INFO : test_e2e :Nokia Edge
+$
+2020-04-18 06:48:19,516 :INFO : test_e2e :Blackberry
+$
+2020-04-18 06:48:19,734 :INFO : test_e2e :Entering country name.
+2020-04-18 06:48:25,355 :INFO : test_e2e :Text received from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-18 06:48:33,001 :INFO : test_form_submission :first name: Jakub
+2020-04-18 06:48:33,112 :INFO : test_form_submission :first name: j@j.cz
+2020-04-18 06:48:33,709 :INFO : test_form_submission :first name: Tereza
+2020-04-18 06:48:33,709 :INFO : test_form_submission :first name: Tereza
+2020-04-18 06:48:33,808 :INFO : test_form_submission :first name: t@t.cz
+2020-04-18 06:48:33,808 :INFO : test_form_submission :first name: t@t.cz
+2020-04-18 06:49:32,139 :INFO : test_e2e :Getting all products
+2020-04-18 06:49:32,191 :INFO : test_e2e :iphone X
+$
+2020-04-18 06:49:32,208 :INFO : test_e2e :Samsung Note 
+2020-04-18 06:49:32,225 :INFO : test_e2e :Nokia Edge
+$
+2020-04-18 06:49:32,243 :INFO : test_e2e :Blackberry
+$
+2020-04-18 06:49:32,451 :INFO : test_e2e :Entering country name.
+2020-04-18 06:49:38,029 :INFO : test_e2e :Text received from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-18 06:49:46,762 :INFO : test_form_submission :first name: Jakub
+2020-04-18 06:49:53,675 :INFO : test_form_submission :first name: j@j.cz
+2020-04-18 06:50:21,914 :INFO : test_form_submission :first name: Tereza
+2020-04-18 06:50:21,914 :INFO : test_form_submission :first name: Tereza
+2020-04-18 06:50:24,947 :INFO : test_form_submission :first name: t@t.cz
+2020-04-18 06:50:24,947 :INFO : test_form_submission :first name: t@t.cz
+2020-04-18 06:54:48,826 :INFO : test_e2e :Getting all products
+2020-04-18 06:54:48,859 :INFO : test_e2e :iphone X
+$
+2020-04-18 06:54:48,875 :INFO : test_e2e :Samsung Note 
+2020-04-18 06:54:48,891 :INFO : test_e2e :Nokia Edge
+$
+2020-04-18 06:54:48,909 :INFO : test_e2e :Blackberry
+$
+2020-04-18 06:54:49,118 :INFO : test_e2e :Entering country name.
+2020-04-18 06:54:54,721 :INFO : test_e2e :Text received from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-18 06:55:03,431 :INFO : test_form_submission :first name: Jakub
+2020-04-18 06:55:03,528 :INFO : test_form_submission :first name: j@j.cz
+2020-04-18 06:55:04,078 :INFO : test_form_submission :first name: Tereza
+2020-04-18 06:55:04,078 :INFO : test_form_submission :first name: Tereza
+2020-04-18 06:55:04,165 :INFO : test_form_submission :first name: t@t.cz
+2020-04-18 06:55:04,165 :INFO : test_form_submission :first name: t@t.cz
+2020-04-18 07:05:29,692 :INFO : test_e2e :Getting all products
+2020-04-18 07:05:29,727 :INFO : test_e2e :iphone X
+$
+2020-04-18 07:05:29,741 :INFO : test_e2e :Samsung Note 
+2020-04-18 07:05:29,757 :INFO : test_e2e :Nokia Edge
+$
+2020-04-18 07:05:29,773 :INFO : test_e2e :Blackberry
+$
+2020-04-18 07:05:29,999 :INFO : test_e2e :Entering country name.
+2020-04-18 07:05:35,473 :INFO : test_e2e :Text received from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-18 07:05:44,053 :INFO : test_form_submission :first name: Jakub
+2020-04-18 07:05:44,165 :INFO : test_form_submission :first name: j@j.cz
+2020-04-18 07:05:44,750 :INFO : test_form_submission :first name: Tereza
+2020-04-18 07:05:44,750 :INFO : test_form_submission :first name: Tereza
+2020-04-18 07:05:44,841 :INFO : test_form_submission :first name: t@t.cz
+2020-04-18 07:05:44,841 :INFO : test_form_submission :first name: t@t.cz
+2020-04-18 07:12:20,198 :INFO : test_e2e :Getting all products
+2020-04-18 07:12:20,239 :INFO : test_e2e :iphone X
+$
+2020-04-18 07:12:20,257 :INFO : test_e2e :Samsung Note 
+2020-04-18 07:12:20,270 :INFO : test_e2e :Nokia Edge
+$
+2020-04-18 07:12:20,285 :INFO : test_e2e :Blackberry
+$
+2020-04-18 07:12:20,517 :INFO : test_e2e :Entering country name.
+2020-04-18 07:12:25,938 :INFO : test_e2e :Text received from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-18 07:12:36,304 :INFO : test_form_submission :first name: Jakub
+2020-04-18 07:12:36,412 :INFO : test_form_submission :first name: j@j.cz
+2020-04-18 07:12:37,602 :INFO : test_form_submission :first name: Tereza
+2020-04-18 07:12:37,602 :INFO : test_form_submission :first name: Tereza
+2020-04-18 07:12:37,692 :INFO : test_form_submission :first name: t@t.cz
+2020-04-18 07:12:37,692 :INFO : test_form_submission :first name: t@t.cz
+2020-04-18 07:13:27,537 :INFO : test_e2e :Getting all products
+2020-04-18 07:13:27,588 :INFO : test_e2e :iphone X
+$
+2020-04-18 07:13:27,605 :INFO : test_e2e :Samsung Note 
+2020-04-18 07:13:27,623 :INFO : test_e2e :Nokia Edge
+$
+2020-04-18 07:13:27,641 :INFO : test_e2e :Blackberry
+$
+2020-04-18 07:13:27,843 :INFO : test_e2e :Entering country name.
+2020-04-18 07:13:33,371 :INFO : test_e2e :Text received from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-18 07:13:42,403 :INFO : test_form_submission :first name: Jakub
+2020-04-18 07:13:48,105 :INFO : test_form_submission :first name: j@j.cz
+2020-04-18 07:14:04,792 :INFO : test_form_submission :first name: Tereza
+2020-04-18 07:14:04,792 :INFO : test_form_submission :first name: Tereza
+2020-04-18 07:14:04,872 :INFO : test_form_submission :first name: t@t.cz
+2020-04-18 07:14:04,872 :INFO : test_form_submission :first name: t@t.cz
+2020-04-18 07:16:57,499 :INFO : test_e2e :Getting all products
+2020-04-18 07:16:57,532 :INFO : test_e2e :iphone X
+$
+2020-04-18 07:16:57,548 :INFO : test_e2e :Samsung Note 
+2020-04-18 07:16:57,568 :INFO : test_e2e :Nokia Edge
+$
+2020-04-18 07:16:57,584 :INFO : test_e2e :Blackberry
+$
+2020-04-18 07:16:57,847 :INFO : test_e2e :Entering country name.
+2020-04-18 07:17:03,415 :INFO : test_e2e :Text received from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-18 07:17:13,999 :INFO : test_form_submission :first name: Jakub
+2020-04-18 07:17:20,732 :INFO : test_form_submission :first name: j@j.cz
+2020-04-18 07:17:36,570 :INFO : test_form_submission :first name: Tereza
+2020-04-18 07:17:36,570 :INFO : test_form_submission :first name: Tereza
+2020-04-18 07:17:36,651 :INFO : test_form_submission :first name: t@t.cz
+2020-04-18 07:17:36,651 :INFO : test_form_submission :first name: t@t.cz
+2020-04-18 08:12:44,187 :INFO : test_e2e :Getting all products
+2020-04-18 08:12:44,234 :INFO : test_e2e :iphone X
+$
+2020-04-18 08:12:44,249 :INFO : test_e2e :Samsung Note 
+2020-04-18 08:12:44,265 :INFO : test_e2e :Nokia Edge
+$
+2020-04-18 08:12:44,281 :INFO : test_e2e :Blackberry
+$
+2020-04-18 08:12:45,021 :INFO : test_e2e :Entering country name.
+2020-04-18 08:12:51,163 :INFO : test_e2e :Text received from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-18 08:13:06,576 :INFO : test_form_submission :first name: Jakub
+2020-04-18 08:13:06,629 :INFO : test_form_submission :first name: j@j.cz
+2020-04-18 08:13:08,832 :INFO : test_form_submission :first name: Tereza
+2020-04-18 08:13:08,832 :INFO : test_form_submission :first name: Tereza
+2020-04-18 08:13:08,879 :INFO : test_form_submission :first name: t@t.cz
+2020-04-18 08:13:08,879 :INFO : test_form_submission :first name: t@t.cz
+2020-04-18 08:17:36,399 :INFO : test_e2e :Getting all products
+2020-04-18 08:17:36,436 :INFO : test_e2e :iphone X
+$
+2020-04-18 08:17:36,458 :INFO : test_e2e :Samsung Note 
+2020-04-18 08:17:36,476 :INFO : test_e2e :Nokia Edge
+$
+2020-04-18 08:17:36,493 :INFO : test_e2e :Blackberry
+$
+2020-04-18 08:17:37,193 :INFO : test_e2e :Entering country name.
+2020-04-18 08:17:43,401 :INFO : test_e2e :Text received from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-18 08:17:58,633 :INFO : test_form_submission :first name: Jakub
+2020-04-18 08:17:58,669 :INFO : test_form_submission :first name: j@j.cz
+2020-04-18 08:18:00,824 :INFO : test_form_submission :first name: Tereza
+2020-04-18 08:18:00,824 :INFO : test_form_submission :first name: Tereza
+2020-04-18 08:18:00,857 :INFO : test_form_submission :first name: t@t.cz
+2020-04-18 08:18:00,857 :INFO : test_form_submission :first name: t@t.cz
+2020-04-18 08:26:49,232 :INFO : test_e2e :Getting all products
+2020-04-18 08:26:49,309 :INFO : test_e2e :iphone X
+$
+2020-04-18 08:26:49,329 :INFO : test_e2e :Samsung Note 
+2020-04-18 08:26:49,344 :INFO : test_e2e :Nokia Edge
+$
+2020-04-18 08:26:49,359 :INFO : test_e2e :Blackberry
+$
+2020-04-18 08:26:50,078 :INFO : test_e2e :Entering country name.
+2020-04-18 08:26:56,300 :INFO : test_e2e :Text received from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-18 08:27:11,394 :INFO : test_form_submission :first name: Jakub
+2020-04-18 08:27:11,440 :INFO : test_form_submission :first name: j@j.cz
+2020-04-18 08:27:14,051 :INFO : test_form_submission :first name: Tereza
+2020-04-18 08:27:14,051 :INFO : test_form_submission :first name: Tereza
+2020-04-18 08:27:14,082 :INFO : test_form_submission :first name: t@t.cz
+2020-04-18 08:27:14,082 :INFO : test_form_submission :first name: t@t.cz
+2020-04-18 08:55:26,227 :INFO : test_e2e :Getting all products
+2020-04-18 08:55:26,271 :INFO : test_e2e :iphone X
+$
+2020-04-18 08:55:26,288 :INFO : test_e2e :Samsung Note 
+2020-04-18 08:55:26,305 :INFO : test_e2e :Nokia Edge
+$
+2020-04-18 08:55:26,321 :INFO : test_e2e :Blackberry
+$
+2020-04-18 08:55:26,515 :INFO : test_e2e :Entering country name.
+2020-04-18 08:55:32,042 :INFO : test_e2e :Text received from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-18 08:58:21,915 :INFO : test_e2e :Getting all products
+2020-04-18 08:58:23,158 :INFO : test_e2e :iphone X
+$
+2020-04-18 08:58:23,871 :INFO : test_e2e :Samsung Note 
+2020-04-18 08:58:24,576 :INFO : test_e2e :Nokia Edge
+$
+2020-04-18 08:58:25,113 :INFO : test_e2e :Blackberry
+$
+2020-04-18 08:58:40,638 :INFO : test_e2e :Entering country name.
+2020-04-18 08:58:46,235 :INFO : test_e2e :Text received from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-18 09:00:40,262 :INFO : test_e2e :Getting all products
+2020-04-18 09:00:41,865 :INFO : test_e2e :iphone X
+$
+2020-04-18 09:00:42,574 :INFO : test_e2e :Samsung Note 
+2020-04-18 09:00:43,289 :INFO : test_e2e :Nokia Edge
+$
+2020-04-18 09:00:44,003 :INFO : test_e2e :Blackberry
+$
+2020-04-18 09:02:53,587 :INFO : test_form_submission :first name: Jakub
+2020-04-18 09:02:53,649 :INFO : test_form_submission :first name: j@j.cz
+2020-04-18 09:02:56,574 :INFO : test_form_submission :first name: Tereza
+2020-04-18 09:02:56,574 :INFO : test_form_submission :first name: Tereza
+2020-04-18 09:02:56,605 :INFO : test_form_submission :first name: t@t.cz
+2020-04-18 09:02:56,605 :INFO : test_form_submission :first name: t@t.cz
+2020-04-18 09:18:42,201 :INFO : test_e2e :Getting all products
+2020-04-18 09:18:42,248 :INFO : test_e2e :iphone X
+$
+2020-04-18 09:18:42,279 :INFO : test_e2e :Samsung Note 
+2020-04-18 09:18:42,295 :INFO : test_e2e :Nokia Edge
+$
+2020-04-18 09:18:42,310 :INFO : test_e2e :Blackberry
+$
+2020-04-18 09:18:43,044 :INFO : test_e2e :Entering country name.
+2020-04-18 09:18:49,223 :INFO : test_e2e :Text received from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-18 09:19:07,216 :INFO : test_form_submission :first name: Jakub
+2020-04-18 09:19:07,263 :INFO : test_form_submission :first name: j@j.cz
+2020-04-18 09:19:10,109 :INFO : test_form_submission :first name: Tereza
+2020-04-18 09:19:10,109 :INFO : test_form_submission :first name: Tereza
+2020-04-18 09:19:10,172 :INFO : test_form_submission :first name: t@t.cz
+2020-04-18 09:19:10,172 :INFO : test_form_submission :first name: t@t.cz
+2020-04-19 08:49:00,442 :INFO : test_e2e :Getting all products
+2020-04-19 08:49:00,523 :INFO : test_e2e :iphone X
+$
+2020-04-19 08:49:00,542 :INFO : test_e2e :Samsung Note 
+2020-04-19 08:49:00,559 :INFO : test_e2e :Nokia Edge
+$
+2020-04-19 08:49:00,574 :INFO : test_e2e :Blackberry
+$
+2020-04-19 08:49:00,781 :INFO : test_e2e :Entering country name.
+2020-04-19 08:49:06,252 :INFO : test_e2e :Text received from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-19 08:49:14,177 :INFO : test_form_submission :first name: Jakub
+2020-04-19 08:49:14,410 :INFO : test_form_submission :first name: j@j.cz
+2020-04-19 08:49:15,018 :INFO : test_form_submission :first name: Tereza
+2020-04-19 08:49:15,018 :INFO : test_form_submission :first name: Tereza
+2020-04-19 08:49:15,110 :INFO : test_form_submission :first name: t@t.cz
+2020-04-19 08:49:15,110 :INFO : test_form_submission :first name: t@t.cz
+2020-04-19 09:02:10,274 :INFO : test_e2e :Getting all products
+2020-04-19 09:02:10,321 :INFO : test_e2e :iphone X
+$
+2020-04-19 09:02:10,352 :INFO : test_e2e :Samsung Note 
+2020-04-19 09:02:10,368 :INFO : test_e2e :Nokia Edge
+$
+2020-04-19 09:02:10,384 :INFO : test_e2e :Blackberry
+$
+2020-04-19 09:02:11,212 :INFO : test_e2e :Entering country name.
+2020-04-19 09:02:17,132 :INFO : test_e2e :Text received from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-19 09:02:34,317 :INFO : test_form_submission :first name: Jakub
+2020-04-19 09:02:34,379 :INFO : test_form_submission :first name: j@j.cz
+2020-04-19 09:02:36,941 :INFO : test_form_submission :first name: Tereza
+2020-04-19 09:02:36,941 :INFO : test_form_submission :first name: Tereza
+2020-04-19 09:02:36,988 :INFO : test_form_submission :first name: t@t.cz
+2020-04-19 09:02:36,988 :INFO : test_form_submission :first name: t@t.cz
+2020-04-19 09:03:21,375 :INFO : test_e2e :Getting all products
+2020-04-19 09:03:22,774 :INFO : test_e2e :iphone X
+$
+2020-04-19 09:03:23,303 :INFO : test_e2e :Samsung Note 
+2020-04-19 09:03:23,835 :INFO : test_e2e :Nokia Edge
+$
+2020-04-19 09:03:24,361 :INFO : test_e2e :Blackberry
+$
+2020-04-19 09:03:53,981 :INFO : test_form_submission :first name: Jakub
+2020-04-19 09:03:59,876 :INFO : test_form_submission :first name: j@j.cz
+2020-04-19 09:04:29,027 :INFO : test_form_submission :first name: Tereza
+2020-04-19 09:04:29,027 :INFO : test_form_submission :first name: Tereza
+2020-04-19 09:04:31,849 :INFO : test_form_submission :first name: t@t.cz
+2020-04-19 09:04:31,849 :INFO : test_form_submission :first name: t@t.cz
+2020-04-19 09:09:25,238 :INFO : test_e2e :Getting all products
+2020-04-19 09:09:25,271 :INFO : test_e2e :iphone X
+$
+2020-04-19 09:09:25,290 :INFO : test_e2e :Samsung Note 
+2020-04-19 09:09:25,309 :INFO : test_e2e :Nokia Edge
+$
+2020-04-19 09:09:25,325 :INFO : test_e2e :Blackberry
+$
+2020-04-19 09:09:25,508 :INFO : test_e2e :Entering country name.
+2020-04-19 09:09:31,001 :INFO : test_e2e :Text received from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-19 09:09:40,109 :INFO : test_form_submission :first name: Jakub
+2020-04-19 09:09:46,265 :INFO : test_form_submission :first name: j@j.cz
+2020-04-19 09:10:15,126 :INFO : test_form_submission :first name: Tereza
+2020-04-19 09:10:15,126 :INFO : test_form_submission :first name: Tereza
+2020-04-19 09:10:18,473 :INFO : test_form_submission :first name: t@t.cz
+2020-04-19 09:10:18,473 :INFO : test_form_submission :first name: t@t.cz
+2020-04-19 09:21:55,995 :INFO : test_form_submission :first name: Jakub
+2020-04-19 09:21:56,026 :INFO : test_form_submission :first name: j@j.cz
+2020-04-19 09:21:58,450 :INFO : test_form_submission :first name: Tereza
+2020-04-19 09:21:58,450 :INFO : test_form_submission :first name: Tereza
+2020-04-19 09:21:58,508 :INFO : test_form_submission :first name: t@t.cz
+2020-04-19 09:21:58,508 :INFO : test_form_submission :first name: t@t.cz
+2020-04-19 09:22:28,280 :INFO : test_e2e :Getting all products
+2020-04-19 09:22:28,327 :INFO : test_e2e :iphone X
+$
+2020-04-19 09:22:28,364 :INFO : test_e2e :Samsung Note 
+2020-04-19 09:22:28,379 :INFO : test_e2e :Nokia Edge
+$
+2020-04-19 09:22:28,395 :INFO : test_e2e :Blackberry
+$
+2020-04-19 09:22:29,095 :INFO : test_e2e :Entering country name.
+2020-04-19 09:22:35,259 :INFO : test_e2e :Text received from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-19 09:22:54,779 :INFO : test_form_submission :first name: Jakub
+2020-04-19 09:22:54,841 :INFO : test_form_submission :first name: j@j.cz
+2020-04-19 09:22:57,234 :INFO : test_form_submission :first name: Tereza
+2020-04-19 09:22:57,234 :INFO : test_form_submission :first name: Tereza
+2020-04-19 09:22:57,281 :INFO : test_form_submission :first name: t@t.cz
+2020-04-19 09:22:57,281 :INFO : test_form_submission :first name: t@t.cz
+2020-04-19 09:23:58,729 :INFO : test_e2e :Getting all products
+2020-04-19 09:23:59,954 :INFO : test_e2e :iphone X
+$
+2020-04-19 09:24:00,658 :INFO : test_e2e :Samsung Note 
+2020-04-19 09:24:01,188 :INFO : test_e2e :Nokia Edge
+$
+2020-04-19 09:24:01,892 :INFO : test_e2e :Blackberry
+$
+2020-04-19 09:24:31,944 :INFO : test_form_submission :first name: Jakub
+2020-04-19 09:24:37,918 :INFO : test_form_submission :first name: j@j.cz
+2020-04-19 09:25:08,335 :INFO : test_form_submission :first name: Tereza
+2020-04-19 09:25:08,335 :INFO : test_form_submission :first name: Tereza
+2020-04-19 09:25:11,497 :INFO : test_form_submission :first name: t@t.cz
+2020-04-19 09:25:11,497 :INFO : test_form_submission :first name: t@t.cz
+2020-04-19 09:29:08,006 :INFO : test_e2e :Getting all products
+2020-04-19 09:29:09,767 :INFO : test_e2e :iphone X
+$
+2020-04-19 09:29:10,301 :INFO : test_e2e :Samsung Note 
+2020-04-19 09:29:10,829 :INFO : test_e2e :Nokia Edge
+$
+2020-04-19 09:29:11,361 :INFO : test_e2e :Blackberry
+$
+2020-04-19 09:29:41,203 :INFO : test_form_submission :first name: Jakub
+2020-04-19 09:29:47,245 :INFO : test_form_submission :first name: j@j.cz
+2020-04-19 09:30:15,526 :INFO : test_form_submission :first name: Tereza
+2020-04-19 09:30:15,526 :INFO : test_form_submission :first name: Tereza
+2020-04-19 09:30:19,222 :INFO : test_form_submission :first name: t@t.cz
+2020-04-19 09:30:19,222 :INFO : test_form_submission :first name: t@t.cz
+2020-04-19 09:31:04,069 :INFO : test_e2e :Getting all products
+2020-04-19 09:31:04,114 :INFO : test_e2e :iphone X
+$
+2020-04-19 09:31:04,134 :INFO : test_e2e :Samsung Note 
+2020-04-19 09:31:04,149 :INFO : test_e2e :Nokia Edge
+$
+2020-04-19 09:31:04,165 :INFO : test_e2e :Blackberry
+$
+2020-04-19 09:31:04,911 :INFO : test_e2e :Entering country name.
+2020-04-19 09:31:11,183 :INFO : test_e2e :Text received from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-19 09:31:30,205 :INFO : test_form_submission :first name: Jakub
+2020-04-19 09:31:30,245 :INFO : test_form_submission :first name: j@j.cz
+2020-04-19 09:31:32,674 :INFO : test_form_submission :first name: Tereza
+2020-04-19 09:31:32,674 :INFO : test_form_submission :first name: Tereza
+2020-04-19 09:31:32,721 :INFO : test_form_submission :first name: t@t.cz
+2020-04-19 09:31:32,721 :INFO : test_form_submission :first name: t@t.cz
+2020-04-19 09:34:55,164 :INFO : test_e2e :Getting all products
+2020-04-19 09:34:55,219 :INFO : test_e2e :iphone X
+$
+2020-04-19 09:34:55,235 :INFO : test_e2e :Samsung Note 
+2020-04-19 09:34:55,253 :INFO : test_e2e :Nokia Edge
+$
+2020-04-19 09:34:55,271 :INFO : test_e2e :Blackberry
+$
+2020-04-19 09:34:55,484 :INFO : test_e2e :Entering country name.
+2020-04-19 09:35:01,020 :INFO : test_e2e :Text received from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-19 09:35:10,504 :INFO : test_form_submission :first name: Jakub
+2020-04-19 09:35:17,057 :INFO : test_form_submission :first name: j@j.cz
+2020-04-19 09:35:44,894 :INFO : test_form_submission :first name: Tereza
+2020-04-19 09:35:44,894 :INFO : test_form_submission :first name: Tereza
+2020-04-19 09:35:48,768 :INFO : test_form_submission :first name: t@t.cz
+2020-04-19 09:35:48,768 :INFO : test_form_submission :first name: t@t.cz
+2020-04-19 09:36:56,096 :INFO : test_e2e :Getting all products
+2020-04-19 09:36:56,133 :INFO : test_e2e :iphone X
+$
+2020-04-19 09:36:56,150 :INFO : test_e2e :Samsung Note 
+2020-04-19 09:36:56,168 :INFO : test_e2e :Nokia Edge
+$
+2020-04-19 09:36:56,186 :INFO : test_e2e :Blackberry
+$
+2020-04-19 09:36:56,401 :INFO : test_e2e :Entering country name.
+2020-04-19 09:37:01,995 :INFO : test_e2e :Text received from app is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-04-19 09:37:09,575 :INFO : test_form_submission :first name: Jakub
+2020-04-19 09:37:09,687 :INFO : test_form_submission :first name: j@j.cz
+2020-04-19 09:37:10,270 :INFO : test_form_submission :first name: Tereza
+2020-04-19 09:37:10,270 :INFO : test_form_submission :first name: Tereza
+2020-04-19 09:37:10,359 :INFO : test_form_submission :first name: t@t.cz
+2020-04-19 09:37:10,359 :INFO : test_form_submission :first name: t@t.cz
+2020-04-20 15:23:29,349 :INFO : test_form_submission :first name: Tereza
+2020-04-20 15:23:29,482 :INFO : test_form_submission :first name: t@t.cz
+2020-04-20 15:23:30,138 :INFO : test_form_submission :first name: Tereza
+2020-04-20 15:23:30,138 :INFO : test_form_submission :first name: Tereza
+2020-04-20 15:23:30,225 :INFO : test_form_submission :first name: t@t.cz
+2020-04-20 15:23:30,225 :INFO : test_form_submission :first name: t@t.cz
+2020-04-20 15:25:07,631 :INFO : test_form_submission :first name: Tereza
+2020-04-20 15:25:07,727 :INFO : test_form_submission :first name: t@t.cz
+2020-04-20 15:25:08,372 :INFO : test_form_submission :first name: Tereza
+2020-04-20 15:25:08,372 :INFO : test_form_submission :first name: Tereza
+2020-04-20 15:25:08,465 :INFO : test_form_submission :first name: t@t.cz
+2020-04-20 15:25:08,465 :INFO : test_form_submission :first name: t@t.cz
+2020-04-20 15:29:20,876 :INFO : test_form_submission :first name: Tereza
+2020-04-20 15:29:20,991 :INFO : test_form_submission :first name: t@t.cz
+2020-04-20 15:29:21,590 :INFO : test_form_submission :first name: Tereza
+2020-04-20 15:29:21,590 :INFO : test_form_submission :first name: Tereza
+2020-04-20 15:29:21,669 :INFO : test_form_submission :first name: t@t.cz
+2020-04-20 15:29:21,669 :INFO : test_form_submission :first name: t@t.cz
+2020-04-20 15:30:40,546 :INFO : test_form_submission :first name: Tereza
+2020-04-20 15:30:40,661 :INFO : test_form_submission :first name: t@t.cz
+2020-04-20 15:30:41,270 :INFO : test_form_submission :first name: Tereza
+2020-04-20 15:30:41,270 :INFO : test_form_submission :first name: Tereza
+2020-04-20 15:30:41,365 :INFO : test_form_submission :first name: t@t.cz
+2020-04-20 15:30:41,365 :INFO : test_form_submission :first name: t@t.cz
+2020-04-20 17:55:31,392 :INFO : test_form_submission :first name: Tereza
+2020-04-20 17:55:31,500 :INFO : test_form_submission :first name: t@t.cz
+2020-04-20 17:55:32,165 :INFO : test_form_submission :first name: Tereza
+2020-04-20 17:55:32,165 :INFO : test_form_submission :first name: Tereza
+2020-04-20 17:55:32,254 :INFO : test_form_submission :first name: t@t.cz
+2020-04-20 17:55:32,254 :INFO : test_form_submission :first name: t@t.cz
+2020-04-20 17:55:46,427 :INFO : test_form_submission :first name: Tereza
+2020-04-20 17:55:46,559 :INFO : test_form_submission :first name: t@t.cz
+2020-04-20 17:55:47,179 :INFO : test_form_submission :first name: Tereza
+2020-04-20 17:55:47,179 :INFO : test_form_submission :first name: Tereza
+2020-04-20 17:55:47,268 :INFO : test_form_submission :first name: t@t.cz
+2020-04-20 17:55:47,268 :INFO : test_form_submission :first name: t@t.cz
+2020-04-20 17:56:09,007 :INFO : test_form_submission :first name: Tereza
+2020-04-20 17:56:09,118 :INFO : test_form_submission :first name: t@t.cz
+2020-04-20 17:56:09,752 :INFO : test_form_submission :first name: Tereza
+2020-04-20 17:56:09,752 :INFO : test_form_submission :first name: Tereza
+2020-04-20 17:56:09,845 :INFO : test_form_submission :first name: t@t.cz
+2020-04-20 17:56:09,845 :INFO : test_form_submission :first name: t@t.cz
+2020-04-20 18:10:56,012 :INFO : test_form_submission :first name: Jakub
+2020-04-20 18:10:56,113 :INFO : test_form_submission :first name: j@j.cz
+2020-04-20 18:10:56,673 :INFO : test_form_submission :first name: Tereza
+2020-04-20 18:10:56,673 :INFO : test_form_submission :first name: Tereza
+2020-04-20 18:10:56,752 :INFO : test_form_submission :first name: t@t.cz
+2020-04-20 18:10:56,752 :INFO : test_form_submission :first name: t@t.cz
+2020-04-20 18:11:14,205 :INFO : test_form_submission :first name: Jakub
+2020-04-20 18:11:14,314 :INFO : test_form_submission :first name: j@j.cz
+2020-04-20 18:11:14,934 :INFO : test_form_submission :first name: Tereza
+2020-04-20 18:11:14,934 :INFO : test_form_submission :first name: Tereza
+2020-04-20 18:11:15,024 :INFO : test_form_submission :first name: t@t.cz
+2020-04-20 18:11:15,024 :INFO : test_form_submission :first name: t@t.cz
